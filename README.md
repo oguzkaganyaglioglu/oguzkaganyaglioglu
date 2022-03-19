@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Perfect Lights](https://perfectlights.oguzkagan.xyz/)
 
+- 🌱 I’m currently learning **Flutter**
+
 - 👨‍💻 All of my projects are available at [https://oguzkagan.xyz](https://oguzkagan.xyz/?src=github-readme)
 
 - 💬 Ask me about **Arduino, Nodemcu, C++**
