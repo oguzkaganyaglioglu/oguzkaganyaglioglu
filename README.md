@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [**Perfect Lights**](https://perfectlights.oguzkagan.xyz/)  
   
 
-- 🌱 I’m currently learning **STM32**  
+- 🌱 I’m currently learning **STM32** and **TI** 
   
 
 - ❓ Ask me about **Arduino, Nodemcu, Raspberry Pi Pico, C++**  
