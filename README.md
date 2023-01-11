@@ -11,7 +11,7 @@
 - ❓ Ask me about **Arduino, Nodemcu, Raspberry Pi Pico, C++**  
   
 
-- 📫 How to reach me **me@oguzkagan.me**  
+- 📫 How to reach me **hi@oguzkagan.me**  
   
 
 - 📄 Know about my experiences [**CV**](https://oguzkagan.me/cv)  
