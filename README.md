@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Earth</h3>  
   
 
-- 🔭 I’m currently working on [**Perfect Lights**](https://perfectlights.oguzkagan.xyz/)  
+- 🔭 I’m currently working on [**Perfect Lights**](https://perfectlights.oguzkagan.me/)  
   
 
 - 🌱 I’m currently learning **STM32** and **TI** 
@@ -11,10 +11,10 @@
 - ❓ Ask me about **Arduino, Nodemcu, Raspberry Pi Pico, C++**  
   
 
-- 📫 How to reach me **me@oguzkagan.xyz**  
+- 📫 How to reach me **me@oguzkagan.me**  
   
 
-- 📄 Know about my experiences [**CV**](https://oguzkagan.xyz/cv)  
+- 📄 Know about my experiences [**CV**](https://oguzkagan.me/cv)  
   
 
 - ⚡ Fun fact:  **I thought it was boring to turn on/off the light by pressing the button I developed a smart light system. I know I could buy one but where is the fun in that right :)**  
