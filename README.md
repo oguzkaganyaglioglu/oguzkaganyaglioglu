@@ -2,13 +2,10 @@
 <h3 align="center">A passionate developer from Earth</h3>  
   
 
-- 🔭 I’m currently working on [**Perfect Lights**](https://perfectlights.oguzkagan.me/)  
+- 🔭 I’m currently working on a **Private Project**  
   
 
-- 🌱 I’m currently learning **STM32** and **TI** 
-  
-
-- ❓ Ask me about **Arduino, Nodemcu, Raspberry Pi Pico, C++**  
+- ❓ Ask me about **Arduino, Nodemcu, Raspberry Pi Pico, STM32, FreeRTOS, C++**  
   
 
 - 📫 How to reach me **hi@oguzkagan.me**  
